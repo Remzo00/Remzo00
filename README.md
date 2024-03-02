@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const tech_stack = {
+  languages: {
+    primary: ["javascript", "typescript"],
+    secondary: ["C#"],
+    projectsMadeWith: ["javascript", "typescript", "C#"],
+  },
+  technologies: {
+    mobile: ["React Native"],
+    frontEnd: {
+      js: ["React"],
+      frameworks: ["Next.js"],
+      styling: {
+        preProcessors: ["Sass"],
+        components: ["Mantine"],
+        useTailwind: true,
+      },
+    },
+    backEnd: {
+      node: {
+        primary: ["express"],
+      },
+      c#: {
+        primary: ["ASP.NET"],
+      },
+    },
+    databases: ["postgresql" || "SQLDatabases"],
+    wantToLearn: ["docker", "penetration testing", "networking"],
+  },
+};
