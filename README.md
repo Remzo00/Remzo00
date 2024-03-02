@@ -1,3 +1,4 @@
+![Screenshot 2024-03-02 130345](https://github.com/Remzo00/Remzo00/assets/77622745/3bb8b313-d115-4fe3-a277-f654d2255965)
 ### Hi there 👋
 
 <!--
@@ -15,32 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-const tech_stack = {
-  languages: {
-    primary: ["javascript", "typescript"],
-    secondary: ["C#"],
-    projectsMadeWith: ["javascript", "typescript", "C#"],
-  },
-  technologies: {
-    mobile: ["React Native"],
-    frontEnd: {
-      js: ["React"],
-      frameworks: ["Next.js"],
-      styling: {
-        preProcessors: ["Sass"],
-        components: ["Mantine"],
-        useTailwind: true,
-      },
-    },
-    backEnd: {
-      node: {
-        primary: ["express"],
-      },
-      c#: {
-        primary: ["ASP.NET"],
-      },
-    },
-    databases: ["postgresql" || "SQLDatabases"],
-    wantToLearn: ["penetration testing", "networking", "docker"],
-  },
-};
