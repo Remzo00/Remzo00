@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-const tech_stack = {
+const omkobass = {
   languages: {
-    primary: ["javascript", "typescript"],
+    primary: ["javascript", "python"],
     secondary: ["C#"],
-    projectsMadeWith: ["javascript", "typescript", "C#"],
+    projectsMadeWith: ["Java", "Go", "Kotlin", "Swift", "PHP", "C", "C++"],
   },
   technologies: {
     mobile: ["React Native"],
@@ -34,13 +34,19 @@ const tech_stack = {
     },
     backEnd: {
       node: {
-        primary: ["express"],
+        primary: ["express", "nestjs"],
       },
-      c#: {
+      python: {
+        primary: ["django", "flask"],
+      },
+      csharp: {
         primary: ["ASP.NET"],
       },
     },
     databases: ["postgresql" || "SQLDatabases"],
-    wantToLearn: ["docker", "penetration testing", "networking"],
+    secondary: ["vue", "svelte"],
+    devOps: ["AWS", "Heroku"],
+    knowButAvoid: ["Angular", "ASP.NET", "PHP"],
+    gameEngines: ["Unity"],
   },
 };
