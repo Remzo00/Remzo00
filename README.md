@@ -2,6 +2,7 @@
 ### Hi there 👋
 ![Screenshot 2024-03-02 130345](https://github.com/Remzo00/Remzo00/assets/77622745/3bb8b313-d115-4fe3-a277-f654d2255965)
 
+Links
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <!--
