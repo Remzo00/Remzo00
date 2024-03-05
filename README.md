@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 ```
-const me = {
+const tech_stack = {
   languages: {
     primary: ["javascript", "typescript"],
     secondary: ["C#"],
