@@ -28,6 +28,7 @@ const tech_stack = {
       },
     },
     databases: ["postgresql" || "SQLDatabases"],
+    testing: ["jest"],
     wantToLearn: ["penetration testing", "networking", "docker"],
   },
 };
