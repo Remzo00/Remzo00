@@ -27,7 +27,7 @@ const tech_stack = {
         primary: ["asp.net"],
       },
     },
-    databases: ["postgresql" || "SQLDatabases"],
+    databases: ["postgresql" || "sqldatabases"],
     testing: ["jest"],
     wantToLearn: ["penetration testing", "networking", "docker"],
   },
