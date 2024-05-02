@@ -14,7 +14,7 @@ const tech_stack = {
       js: ["react"],
       frameworks: ["next.js"],
       styling: {
-        preProcessors: ["sass"],
+        preProcessors: ["styled-components"],
         components: ["mantine"],
         useTailwind: true,
       },
