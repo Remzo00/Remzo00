@@ -28,7 +28,9 @@ const tech_stack = {
       },
     },
     databases: ["postgresql" && "mongodb"],
-    testing: ["jest"],
+    testing: {
+      unitTest: ["jest"]
+  },
     wantToLearn: ["pen testing", "networking", "docker"],
   },
 };
