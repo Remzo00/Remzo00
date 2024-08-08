@@ -29,7 +29,7 @@ const tech_stack = {
     },
     databases: ["postgresql" && "mongodb"],
     testing: ["jest"],
-    wantToLearn: ["penetration testing", "networking", "docker"],
+    wantToLearn: ["pen testing", "networking", "docker"],
   },
 };
 ```
