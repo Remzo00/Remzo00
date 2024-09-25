@@ -15,7 +15,7 @@ const tech_stack = {
       styling: {
         preProcessors: ["styled-components", "sass"],
         components: ["mantine"],
-        useTailwind: true
+        useTailwind: true,
       },
     },
     backEnd: {
