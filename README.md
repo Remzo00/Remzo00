@@ -23,7 +23,7 @@ const tech_stack = {
         primary: ["express"],
       },
       csharp: {
-        primary: ["asp.net"],
+        primary: ["asp.ne"],
       },
     },
     databases: ["postgresql" && "mongodb"],
