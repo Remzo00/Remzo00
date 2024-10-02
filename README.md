@@ -1,7 +1,7 @@
 
 
 ```
-const tech_stack  {
+const tech_stack = {
   languages: {
     primary: ["javascript", "typescript"],
     secondary: ["c#"],
