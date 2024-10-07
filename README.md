@@ -5,7 +5,7 @@ const tech_stack = {
   languages: {
     primary: ["javascript", "typescript"],
     secondary: ["c#"],
-    projectsMadeWith: ["javascript", "ypescript", "c#"],
+    projectsMadeWith: ["javascript", "typescript", "c#"],
   },
   technologies: {
     mobile: ["react native"],
